@@ -1,2 +1,2 @@
-# Crackpot-
+# Crackpot
 Jogo desenvolvido em Assembly
